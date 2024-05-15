@@ -1,6 +1,4 @@
-### Hi there 👋
-
-h1 align="center">Hi 👋, I'm Moein Code</h1>
+<h1 align="center">Hi 👋, I'm Moein Code</h1>
 <h3 align="center">A creative and talkative programmer</h3>
 
 <h3 align="left">Connect with me:</h3>
